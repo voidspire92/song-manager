@@ -119,4 +119,3 @@ SvelteKit 2 · Svelte 5 · Vite 8 · Tailwind CSS 4 · Supabase · Zod 4 · `@ne
 本项目采用 `Parity Public License 7.0.0` 授权，详见根目录 `LICENSE`。
 
 如果你使用本软件开发、运行或分析其他软件，则相关软件也需要按照协议要求开放共享。
-1
